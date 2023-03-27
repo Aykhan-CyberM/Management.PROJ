@@ -1,0 +1,15 @@
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\bin\Debug\net6.0\Organization.Infrastructure.deps.json
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\bin\Debug\net6.0\Organization.Infrastructure.dll
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\bin\Debug\net6.0\Organization.Infrastructure.pdb
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\bin\Debug\net6.0\Organization.Core.dll
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\bin\Debug\net6.0\Organization.Core.pdb
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.AssemblyInfo.cs
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.csproj.CopyComplete
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.dll
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\refint\Organization.Infrastructure.dll
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\Organization.Infrastructure.pdb
+C:\Users\Aykhan\source\repos\Management\Organization.Infrastructure\obj\Debug\net6.0\ref\Organization.Infrastructure.dll
